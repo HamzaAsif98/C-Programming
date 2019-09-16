@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1552520192 source:f:\semester 2\c programming\firstassignment\word_game\word_game.c
+	<stdio.h >
+	<stdbool.h>
+
+1552515454 source:f:\semester 2\c programming\firstassignment\word_game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"word_game.h"
+
+1552328316 f:\semester 2\c programming\firstassignment\word_game\word_game.h
+
